@@ -55,7 +55,6 @@ ul {
 .middle {
 	height: 400px;
 	width: 100%;
-	
 	background-size: cover;
 	background-position: right top;
     background-attachment: fixed;
@@ -164,7 +163,7 @@ div.img {
     margin: auto;
     padding: 2px;
     display: block;
-    width: 0%;
+    width: 80%;
 }
 
 div.img:hover {
