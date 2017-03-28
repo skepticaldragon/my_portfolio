@@ -140,7 +140,42 @@ h1 {
 
 
 
+/*PICTURES*/
+div.img {
+    margin: 5px;
+    border: 1px solid   #FFFFFF;
+    float: left;
+    width: 180px;
+    justify-content: center;
+    margin: auto;
+    padding: 2px;
+    display: block;
+    width: 50%;
+}
 
+div.img:hover {
+    border: 1px solid   #FFFFFF;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    color: white;
+    font-family: 'Alegreya Sans', sans-serif;
+} 
+
+.vid {
+  margin: 5px;
+    margin: auto;
+    display: block;
+    width: 40%;
+}
 
 
 .middle-container {
